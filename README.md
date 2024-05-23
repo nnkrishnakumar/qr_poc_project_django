@@ -1,0 +1,1 @@
+# qr_poc_project_django
